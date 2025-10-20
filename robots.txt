@@ -1,4 +1,7 @@
 User-agent: *
-Disallow: /portfolio/offer-softbank.html
-Disallow: /portfolio/assets/img/softbank-offer/
 Disallow: /portfolio/academic/
+Disallow: /portfolio/offer-softbank.html
+Disallow: /portfolio/offer-consult-2023.html
+Disallow: /portfolio/assets/img/softbank-offer/
+Disallow: /portfolio/assets/img/offer-consult-2023/
+Disallow: /portfolio/assets/doc/offer-consult-2023-redacted.pdf
